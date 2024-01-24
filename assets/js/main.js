@@ -37,7 +37,6 @@ const listGift = [
     },
     {
         name: '500.000đ',
-        percent: 15 / 100,
         percent: 10 / 100,
         image: './assets/img/Lixi.png',
     },
